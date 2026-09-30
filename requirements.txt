@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+xmltodict
+PyPDF2
+python-multipart
+alembic
+python-dotenv
+google-genai
+pydantic
+tenacity
+aio_pika
